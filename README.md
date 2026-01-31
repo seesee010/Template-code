@@ -1,6 +1,6 @@
 # Template-code> 
 
-[!NOTE]
+> [!NOTE]
 > Keep this in mind.
 
 > [!TIP]
@@ -8,7 +8,6 @@
 
 > [!WARNING]
 > Be careful.
-Caution:
 
 > [!CAUTION]
 > Be extremely careful.
