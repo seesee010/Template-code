@@ -15,6 +15,9 @@ Thanks for your interest in contributing! Here's how you can help:
     - a to z
     - A to Z
     - 0 to 9
+    - @, #, ö, ü, ä, ß, $, € (very rare but allowed)
+    - -, +
+
 3. Make your changes and commit using the commit template.
 4. Push your branch to your fork.
 5. Open a Pull Request.
