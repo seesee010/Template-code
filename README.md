@@ -1,4 +1,4 @@
-# Template-code> 
+# Template-code
 
 > [!NOTE]
 > Keep this in mind.
